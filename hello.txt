@@ -1,4 +1,4 @@
 Hello! caixinwang
-code1  xxxxxxxx
-code2  33333
+code1  xx
+code2  33
 code3
